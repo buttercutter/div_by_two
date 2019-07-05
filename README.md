@@ -17,5 +17,3 @@ This divider circuit is just a positive-edge triggered D flip-flop of [TSPC logi
 TODO
 
 * Improves the D flip flop to use [split output latches](https://i.imgur.com/b1hWxbX.png) design which has lesser mosfet and clock loadng.
-
-* Current D flip flop does not support **asynchronous reset**
